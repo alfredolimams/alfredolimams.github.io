@@ -9,8 +9,9 @@
 
 
 .dashboard-image {
-    width:200px;
-    height:200px;
+    height:175px;
+    max-height:175px;
+    max-width:200px; 
 }
 
 .dashboard-name {
@@ -84,14 +85,4 @@
     border-radius: 90%;
 }
 
-.bg-warning {
-    /*background-image: none;*/
-    background-color: black;
-}
-
-/*div {
-    border:2px solid red;
-    box-sizing:border-box;
-}*/
-
-/*https://code.makery.ch/library/more-html-css/icons/*/ Icons
+/*https://code.makery.ch/library/more-html-css/icons/*/
